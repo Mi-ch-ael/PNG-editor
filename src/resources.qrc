@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/Black.png</file>
+        <file>images/Blue.png</file>
+        <file>images/Div.png</file>
+        <file>images/Frame_3.png</file>
+        <file>images/Gray.png</file>
+        <file>images/Green.png</file>
+        <file>images/Line_1.png</file>
+        <file>images/Line_2.png</file>
+        <file>images/Line_3.png</file>
+        <file>images/open.png</file>
+        <file>images/Orange.png</file>
+        <file>images/Rect.png</file>
+        <file>images/Red.png</file>
+        <file>images/Rotate.png</file>
+        <file>images/save.png</file>
+        <file>images/test.png</file>
+        <file>images/White.png</file>
+        <file>images/Yellow.png</file>
+    </qresource>
+</RCC>
